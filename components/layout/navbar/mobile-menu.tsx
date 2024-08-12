@@ -1,4 +1,4 @@
-import NavbarSublink from "../ui/navbar-sublink";
+import NavbarSublink from "../../ui/navbar-sublink";
 
 const MobileMenu: React.FC = () => {
   return (

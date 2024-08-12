@@ -1,4 +1,4 @@
-import NavbarLink from "../ui/navbar-link";
+import NavbarLink from "../../ui/navbar-link";
 import DesktopMenu from "./desktop-menu";
 import MobileMenu from "./mobile-menu";
 import MobileMenuClient from "./mobile-menu-client";
