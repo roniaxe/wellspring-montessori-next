@@ -1,5 +1,5 @@
-import NavbarLink from "../ui/navbar-link";
-import NavbarSublink from "../ui/navbar-sublink";
+import NavbarLink from "../../ui/navbar-link";
+import NavbarSublink from "../../ui/navbar-sublink";
 
 const DesktopMenu: React.FC = () => {
   return (
